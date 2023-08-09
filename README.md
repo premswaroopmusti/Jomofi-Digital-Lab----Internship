@@ -155,5 +155,3 @@ This paper proposes a flexible, efficient and free to use Web Applications. Web 
 -	https://www.moneycontrol.com/news/
 -	https://www.investing.com/news/
 -	https://www.nseindia.com/products-services/equity-derivatives-nifty50 
-
-
